@@ -1,9 +1,9 @@
 const cacheName = "Vaddadi Sree Vamsi-BODMAS Calculator-0.1";
 const contentToCache = [
     "Build/calculator webglbuild.loader.js",
-    "Build/calculator webglbuild.framework.js.gz",
-    "Build/calculator webglbuild.data.gz",
-    "Build/calculator webglbuild.wasm.gz",
+    "Build/calculator webglbuild.framework.js",
+    "Build/calculator webglbuild.data",
+    "Build/calculator webglbuild.wasm",
     "TemplateData/style.css"
 
 ];
